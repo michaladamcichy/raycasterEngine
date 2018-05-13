@@ -1,2 +1,2 @@
 # raycasterEngine
-Garphics engine based on raycasting written in C++. Multithreaded, high resolution. 
+Graphics engine based on raycasting written in C++. Multithreaded, high resolution. 
